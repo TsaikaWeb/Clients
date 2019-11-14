@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<nimed>
+  <nimi>
+    <sugu>Mees</sugu>
+    <emakeelne>Aleksandr</emakeelne>
+    <vorkkeelne>Aleksander</vorkkeelne>
+  </nimi>
+  <nimi>
+    <sugu>Mees</sugu>
+    <emakeelne>Aleksey</emakeelne>
+    <vorkkeelne>Alexey</vorkkeelne>
+  </nimi>
+  <nimi>
+    <sugu>Mees</sugu>
+    <emakeelne>Artem</emakeelne>
+    <vorkkeelne>Artyom</vorkkeelne>
+  </nimi>
+  <nimi>
+    <sugu>Naine</sugu>
+    <emakeelne>Anzhela</emakeelne>
+    <vorkkeelne>Angela</vorkkeelne>
+  </nimi>
+  <nimi>
+    <sugu>Naine</sugu>
+    <emakeelne>Darya</emakeelne>
+    <vorkkeelne>Daria</vorkkeelne>
+  </nimi>
+
+</nimed>
