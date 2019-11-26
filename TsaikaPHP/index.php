@@ -31,8 +31,7 @@ function searchInimesedBySugu($query){
     <meta charset="utf-8">
 </head>
 <body>
-<h1 class="text-center">Nimed</h1>
-<h3 class="text-center">Table</h3>
+<h1 class="text-center">Nimede Otsi</h1>
 <div class="container">
     <div class="row justify-content-md-center">
 <table border="1" class="table table-dark table-hover">
@@ -71,10 +70,10 @@ function searchInimesedBySugu($query){
 
 <div class=" text-center bg-secondary text-white">
 
-    <h3>Search</h3>
+<h3>Otsige sugu järgi: </h3>
     <form action="?" method="post">
-        Search: <input type="text" name="search" placeholder="Name"/>
-        <input type="submit" value="Find" />
+        <input type="text" name="search" placeholder="Sugu"/>
+        <input type="submit" value="Leida" />
     </form>
     <table border="1" class="table table-dark table-hover">
         <tr>
