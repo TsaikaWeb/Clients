@@ -13,3 +13,36 @@
   - Показывать только мужское или женское имя
   - Вывод первого значения с базы данных
   - Поиск по родному имени
+## XML файл
+```
+<?xml version="1.0" encoding="utf-8" ?>
+
+<nimed>
+  <nimi id="1">
+    <sugu>Man</sugu>
+    <emakeelne>Aleksandr</emakeelne>
+    <vorkkeelne>Aleksander</vorkkeelne>
+  </nimi>
+  <nimi id="2">
+    <sugu>Man</sugu>
+    <emakeelne>Aleksey</emakeelne>
+    <vorkkeelne>Alexey</vorkkeelne>
+  </nimi>
+  <nimi id="3">
+    <sugu>Man</sugu>
+    <emakeelne>Artem</emakeelne>
+    <vorkkeelne>Artyom</vorkkeelne>
+  </nimi>
+  <nimi id="4">
+    <sugu>Woman</sugu>
+    <emakeelne>Anzhela</emakeelne>
+    <vorkkeelne>Angela</vorkkeelne>
+  </nimi>
+  <nimi id="5">
+    <sugu>Woman</sugu>
+    <emakeelne>Darya</emakeelne>
+    <vorkkeelne>Daria</vorkkeelne>
+  </nimi>
+
+</nimed>
+```
